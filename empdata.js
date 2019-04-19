@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "name": "Harry Potter",
-      "Age": "25",
-      "Nationality": "British",
-      "Previous Location": "Wales",
-      "Current Location": "London",
-      "Birthday": "06/31/1980"
+      "name": "James Bond",
+      "designation": "Accountant",
+      "salary": "$170,750",
+      "joining_date": "2011/07/25",
+      "office": "Tokyo",
+      "extension": "8422"
     },
     {
       "name": "Brielle Williamson",
