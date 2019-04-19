@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
+      "name": "Harry Potter",
+      "designation": "Wizard",
       "salary": "$170,750",
       "joining_date": "2011/07/25",
       "office": "Tokyo",
