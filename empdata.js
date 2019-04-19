@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "Name": "Harry Potter",
+      "name": "Harry Potter",
       "Age": "25",
       "Nationality": "British",
       "Previous Location": "Wales",
