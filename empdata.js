@@ -2,11 +2,11 @@
   "data": [
     {
       "name": "Harry Potter",
-      "designation": "Wizard",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "occupation": "Wizard",
+      "birthday": "06/31/1980",
+      "previous_location": "Scotland",
+      "current_location": "London",
+      "house": "Gryffindor"
     },
     {
       "name": "Brielle Williamson",
