@@ -71,6 +71,7 @@
       "previous_location": "Scotland",
       "current_location": "London",
       "house": "Gryffindor"
+    }, 
     {
       "name": "Cho Chang",
       "occupation": "Seeker",
