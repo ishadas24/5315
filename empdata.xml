@@ -41,83 +41,82 @@
       <house>Slytherin</house>
     </data>
     <data>
-      <name>Lucius Malfoy</name>
-      <designation>CEO - Malfoy Industries</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <name>Fleur Delacour</name>
+      <occupation>Gringotts Bank Part Time</occupation>
+      <birthday>10/30/1977</birthday>
+      <previous_location>Versailles</previous_location>
+      <current_location>London</current_location>
+      <house>N/A - Beauxbatons</house>
     </data>
     <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <name>Viktor Krum</name>
+      <occupation>Seeker - Bulgaria</occupation>
+      <birthday>04/01/1976</birthday>
+      <previous_location>Unknown</previous_location>
+      <current_location>Bulgaria</current_location>
+      <house>N/A - Durmstrang</house>
     </data>
     <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+       <name>Luna Lovegood</name>
+      <occupation>Journalist</occupation>
+      <birthday>02/13/1978</birthday>
+      <previous_location>Scotland</previous_location>
+      <current_location>London</current_location>
+      <house>Ravenclaw</house>
     </data>
     <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+       <name>Neville Longbottom</name>
+      <occupation>Herbology Professor</occupation>
+      <birthday>07/30/1980</birthday>
+      <previous_location>Scotland</previous_location>
+      <current_location>London</current_location>
+      <house>Gryffindor</house>
     </data>
     <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+     <name>Cho Chang</name>
+      <occupation>Seeker</occupation>
+      <birthday>08/25/1980</birthday>
+      <previous_location>Scotland</previous_location>
+      <current_location>London</current_location>
+      <house>Hufflepuff</house>
     </data>
     <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <name>Hannah Abbott</name>
+      <occupation>Healer</occupation>
+      <birthday>04/17/1980</birthday>
+      <previous_location>Scotland</previous_location>
+      <current_location>London</current_location>
+      <house>Hufflepuff</house>
+    </data>    </data>
+    <data>
+     <name>Cormac McLaggen</name>
+      <occupation>Keeper</occupation>
+      <birthday>02/01/1978</birthday>
+      <previous_location>Scotland</previous_location>
+      <current_location>London</current_location>
+      <house>Ravenclaw</house>
     </data>
     <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+   <name>Pansy Parkinson</name>
+      <occupation>Homemaker</occupation>
+      <birthday>08/24/1980</birthday>
+      <previous_location>Scotland</previous_location>
+      <current_location>London</current_location>
+      <house>Slytherin</house>
     </data>
     <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
+     <name>Blaise Zabini</name>
+      <occupation>Chaser</occupation>
+      <birthday>09/21/1979</birthday>
+      <previous_location>Scotland</previous_location>
+      <current_location>London</current_location>
+      <house>Slytherin</house>
     </data>
     <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
-    </data>
-    <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
-    </data>
+      <name>Padma Patil</name>
+      <occupation>Artist</occupation>
+      <birthday>04/20/1980</birthday>
+      <previous_location>Scotland</previous_location>
+      <current_location>London</current_location>
+      <house>Ravenclaw</house>
   </employees>
