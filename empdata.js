@@ -41,84 +41,83 @@
       "house": "Slytherin"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+   "name": "FLeur Delacour",
+      "occupation": "Gringotts Bank Part Time",
+      "birthday": "10/30/1977",
+      "previous_location": "Versailles",
+      "current_location": "London",
+      "house": "N/A - Beauxbatons"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "name": "Victor Krum",
+      "occupation": "Seeker - Bulgaria",
+      "birthday": "04/01/1976",
+      "previous_location": "Unknown",
+      "current_location": "Bulgaria",
+      "house": "N/A - Durmstrang"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+   "name": "Luna Lovegood",
+      "occupation": "Journalist",
+      "birthday": "02/13/1981",
+      "previous_location": "Scotland",
+      "current_location": "London",
+      "house": "Ravenclaw"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "name": "Neville Longbottom",
+      "occupation": "Herbology Professor",
+      "birthday": "07/30/1980",
+      "previous_location": "Scotland",
+      "current_location": "London",
+      "house": "Gryffindor"
+    {
+      "name": "Cho Chang",
+      "occupation": "Seeker",
+      "birthday": "08/25/1980",
+      "previous_location": "Scotland",
+      "current_location": "London",
+      "house": "Hufflepuff"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+     "name": "Hannah Abbott",
+      "occupation": "Healer",
+      "birthday": "04/17/1980",
+      "previous_location": "Scotland",
+      "current_location": "London",
+      "house": "Hufflepuff"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "name": "Cormac McLaggen",
+      "occupation": "Keeper",
+      "birthday": "02/01/1978",
+      "previous_location": "Scotland",
+      "current_location": "London",
+      "house": "Ravenclaw"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+    "name": "Pansy Parkinson",
+      "occupation": "Homemaker",
+      "birthday": "08/24/1980",
+      "previous_location": "Scotland",
+      "current_location": "London",
+      "house": "Slytherin"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "name": "Blaise Zabini",
+      "occupation": "Chaser",
+      "birthday": "09/21/1979",
+      "previous_location": "Scotland",
+      "current_location": "London",
+      "house": "Slytherin"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
-    },
-    {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "name": "Padma Patil",
+      "occupation": "Artist",
+      "birthday": "04/20/1980",
+      "previous_location": "Scotland",
+      "current_location": "London",
+      "house": "Ravenclaw"
     }
   ]
 }
