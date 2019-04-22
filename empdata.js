@@ -2,43 +2,43 @@
   "data": [
     {
       "name": "Harry Potter",
-      "occupation": "Wizard",
+      "occupation": "Auror",
       "birthday": "06/31/1980",
       "previous_location": "Scotland",
       "current_location": "London",
       "house": "Gryffindor"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+     "name": "Ron Weasley",
+      "occupation": "Auror",
+      "birthday": "03/01/1980",
+      "previous_location": "Scotland",
+      "current_location": "London",
+      "house": "Gryffindor"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "name": "Hermione Granger",
+      "occupation": "Deputy Head (MLE)",
+      "birthday": "09/19/1979",
+      "previous_location": "Scotland",
+      "current_location": "London",
+      "house": "Gryffindor"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "name": "Ginny Weasley",
+      "occupation": "Chaser (HH)",
+      "birthday": "07/11/1981",
+      "previous_location": "Scotland",
+      "current_location": "Remote",
+      "house": "Gryffindor"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+     "name": "Draco Malfoy",
+      "occupation": "Heir",
+      "birthday": "06/05/1980",
+      "previous_location": "Scotland",
+      "current_location": "London",
+      "house": "Slytherin"
     },
     {
       "name": "Shad Decker",
